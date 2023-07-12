@@ -1,0 +1,6 @@
+{
+  "TestFramework": "Pytest",
+  "SuppressEnvironmentCreationPrompt": true,
+  "SuppressConfigureTestFrameworkPrompt": "true",
+  "Interpreter": "Workspace|Workspace|venv"
+}
